@@ -48,7 +48,7 @@ h6 {
 #header .profile img {
   margin: 15px auto;
   display: block;
-  width: 120px;
+  width: 200px;
   border: 8px solid #2c2f3f;
 }
 
@@ -239,21 +239,21 @@ h6 {
 
 #hero h1 {
   margin: 0 0 10px 0;
-  font-size: 64px;
+  font-size: 55px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color:black;
 }
 
 #hero p {
-  color: #fff;
+  color:black;
   margin-bottom: 50px;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
 }
 
 #hero p span {
-  color: rgb(154, 228, 247);
+  color: rgb(2, 52, 65);
   padding-bottom: 4px;
   letter-spacing: 1px;
   border-bottom: 3px solid #149ddd;
